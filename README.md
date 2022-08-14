@@ -1,0 +1,1 @@
+# hello-without-main-function
